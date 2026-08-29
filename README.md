@@ -43,7 +43,7 @@ localização: Campo Belo, Minas Gerais 🇧🇷
 <table>
   <tr>
     <td align="center" width="120">
-      <img src="https://img.shields.io/badge/Atual-1f6feb?style=for-the-badge" alt="atual"/>
+      <img src="https://img.shields.io/badge/Atual-1f6feb?style=for-the-badge" alt="Anterior"/>
     </td>
     <td>
       <strong>Analista de TI / SysAdmin</strong><br/>
