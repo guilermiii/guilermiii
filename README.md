@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 Sobre Mim
 
-Sou o Guilherme, geral me chama de Gui ou Guilermi, gosto de tecnologia, em especial de servidores e redes.
+Sou o Guilherme, geral me chama de Gui ou Guilermi, gosto de tecnologia, em especial de cloud, devops, sre.
 
 ```yaml
 nome: Guilherme de Souza Mizael de Morais
