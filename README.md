@@ -17,17 +17,14 @@ Sou o Guilherme, geral me chama de Gui ou Guilermi, gosto de tecnologia, em espe
 
 ```yaml
 nome: Guilherme de Souza Mizael de Morais
-cargo: Analista de TI
-empresa: Unimed Campo Belo - MG
 formação:
-  - Tecnólogo em Informática — CEFET-MG (concluído)
-  - Sistemas de Informação — Unopar (6º de 7 períodos)
+  - Tecnico em Informática — CEFET-MG (concluído)
+  - Sistemas de Informação — UNOPAR (6º de 7 períodos)
 localização: Campo Belo, Minas Gerais 🇧🇷
 ```
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
-- 🔭 Atualmente trabalho como **Analista de TI** na **Unimed Campo Belo**
 - 🌱 Estudando **Observabilidade** com Prometheus & OpenTelemetry e **IaC** com Ansible & Packer e Kubernetes que o conteúdo é infinito.
 - 🏠 Entusiasta de **Home Lab** — tenho um dragão chines em casa só pra testar novas tecnologias, estou sempre aprendendo.
 - ⚽ Nos finais de semana você me encontra nas quadras jogando bola, ou a cavalo no sítio. 🐴
@@ -48,7 +45,7 @@ localização: Campo Belo, Minas Gerais 🇧🇷
     <td>
       <strong>Analista de TI / SysAdmin</strong><br/>
       <sub>Unimed Campo Belo — 1 ano e 6 meses</sub><br/>
-      <sub>Administração de servidores, virtualização, monitoramento e infraestrutura de rede</sub>
+      <sub>Administração de servidores, virtualização, monitoramento e infraestrutura de rede, backup. gestão de ativos, segurança da informação.</sub>
     </td>
   </tr>
   <tr>
