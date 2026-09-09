@@ -20,6 +20,11 @@ nome: Guilherme de Souza Mizael de Morais
 formação:
   - Tecnico em Informática — CEFET-MG (concluído)
   - Sistemas de Informação — UNOPAR (6º de 7 períodos)
+Ingles:
+  - Técnico em leitura e escrita, básico na fala
+certificações:
+  - Oracle Cloud Infrastructure Certified AI Foundations Associate
+  - Oracle Cloud Infrastructure Certified Foundations Associate
 localização: Campo Belo, Minas Gerais 🇧🇷
 ```
 
