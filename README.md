@@ -25,6 +25,7 @@ Ingles:
 certificações:
   - Oracle Cloud Infrastructure Certified AI Foundations Associate
   - Oracle Cloud Infrastructure Certified Foundations Associate
+  - Oracle Agentic AI Foundations Associate
 localização: Campo Belo, Minas Gerais 🇧🇷
 ```
 
