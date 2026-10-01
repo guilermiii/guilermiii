@@ -21,7 +21,7 @@ formação:
   - Tecnico em Informática — CEFET-MG (concluído)
   - Sistemas de Informação — UNOPAR (6º de 7 períodos)
 Ingles:
-  - Técnico em leitura e escrita, básico na fala
+  - Técnico (leitura e escrita)
 certificações:
   - Oracle Cloud Infrastructure Certified AI Foundations Associate
   - Oracle Cloud Infrastructure Certified Foundations Associate
