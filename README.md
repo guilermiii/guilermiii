@@ -23,6 +23,7 @@ formação:
 Ingles:
   - Técnico (leitura e escrita)
 certificações:
+  - LFCA - Linux Foundation Certified IT Associate
   - Oracle Cloud Infrastructure Certified AI Foundations Associate
   - Oracle Cloud Infrastructure Certified Foundations Associate
   - Oracle Agentic AI Foundations Associate
